@@ -12,22 +12,22 @@ function App() {
       <div className="card-container">
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Card title</h5>
-            <p className="card-text">1</p>
+            <h5 className="card-title">Cho 3 điểm</h5>
+
             <button className="delete-button">Delete</button>
           </div>
         </div>
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Card title</h5>
-            <p className="card-text">2</p>
+            <h5 className="card-title">Hay hay hay</h5>
+
             <button className="delete-button">Delete</button>
           </div>
         </div>
         <div className="card">
           <div className="card-body">
-            <h5 className="card-title">Card title</h5>
-            <p className="card-text">3</p>
+            <h5 className="card-title">Note sth</h5>
+
             <button className="delete-button">Delete</button>
           </div>
         </div>
